@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "some great amazing awesome post thing",
+      "author": "an angry hobo",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "body": "This is a comment made from postMATTEEE :D",
+      "postId": 2,
+      "id": 2
+    },
+    {
+      "body": "This is a THIRD comment made from postMATTEEE AHHHHHHH",
+      "postId": 3,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "joe-sponge"
+  }
+}
